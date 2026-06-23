@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola!! , I'm Imtiaz 👋
 
-<!--
-**Imtiaz-laskar/Imtiaz-laskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trust & Safety professional with experience across content moderation, ads policy enforcement, platform integrity, and multilingual risk operations within large-scale digital ecosystems.
 
-Here are some ideas to get you started:
+Currently exploring Responsible AI, AI Governance, Digital Rights, and Technology Policy through independent research, continuous learning, and data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 South Asia & India Expertise
+
+📖 Research & Policy Enthusiast
+
+🤖 Responsible AI & Governance Enthusiast
+
+🌐 Multilingual Communicator
+
+🛡️ Trust & Safety Professional
