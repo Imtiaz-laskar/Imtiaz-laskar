@@ -113,3 +113,76 @@ Exploring Responsible AI, AI Governance, Digital Rights, Platform Governance, an
 - AI-Assisted Analytics
 - Public Policy & Digital Rights
 - Technology, Society & Emerging Risks
+
+---
+
+## 🏆 Featured Credentials
+
+- Google AI Professional
+- Responsible Generative AI
+- Open-source Intelligence (OSINT)
+- Google Project Management Professional Certificate
+- McKinsey.org Forward Program
+- Lean Six Sigma Yellow Belt
+- Workflow Specialist
+- Python Data Analytics
+- Data Analysis with Spreadsheets and SQL
+- Certified Anti-Money Laundering and Compliance Expert (CAML)
+
+---
+
+## 📖 Research & Publications
+
+### Reframing Digital Childhood: India's Emerging Framework for Child Safety and Online Rights
+
+Exploring the evolving regulatory landscape, child protection measures, and digital rights considerations shaping online safety in India.
+
+### Who Owns Your Face? Deepfakes, AI, and the Future of Personality Rights
+
+Examining the legal, ethical, and governance challenges created by synthetic media, generative AI, and the protection of identity in the digital age.
+
+✍️ More articles and research notes available on Medium.
+
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Operations & Productivity
+
+- Asana
+- Qualtrics
+- Google Workspace
+
+### Data & Analytics
+
+- BigQuery
+- SQL
+- Looker Studio
+- Google Sheets
+
+### AI & Research
+
+- Gemini
+- Claude
+- NotebookLM
+- Prompt Engineering
+- Context Engineering
+
+### Design & Communication
+
+- Canva
+- Adobe Express
+
+
+---
+
+## 🔗 Connect With Me
+
+🌐 Portfolio: https://imtiaz-laskar.github.io
+
+💼 LinkedIn: https://linkedin.com/in/imtiazhlaskar
+
+✍️ Medium: https://medium.com/@imtiaz.laskar96
+
+📧 Email: imtiazh526@gmail.com
