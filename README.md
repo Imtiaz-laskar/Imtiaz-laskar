@@ -34,7 +34,7 @@ Beyond operations, I enjoy researching emerging technology issues, publishing po
 - Policy Enforcement
 - Online Safety
 - Escalation Management
-- User Protection
+- User Experience & Protection
 
 ### 🔍 Risk Operations & Investigations
 
@@ -49,7 +49,7 @@ Beyond operations, I enjoy researching emerging technology issues, publishing po
 - Advertising Compliance
 - Organic Content Integrity
 - Account Integrity
-- Elections & Crisis Events
+- Election & Crisis Events Response
 - Policy Operations
 
 ### 🤖 AI & Responsible AI
@@ -57,7 +57,7 @@ Beyond operations, I enjoy researching emerging technology issues, publishing po
 - AI Governance
 - Responsible AI Frameworks
 - AI Risk Management
-- Prompt Engineering
+- Context & Prompt Engineering
 - AI-Assisted Workflows
 
 ### 📊 Data & Analytics
@@ -71,10 +71,9 @@ Beyond operations, I enjoy researching emerging technology issues, publishing po
 ### 📚 Policy & Research
 
 - Public Policy
-- Digital Rights
-- Technology Governance
-- Human Rights
-- South Asia Expertise
+- Digital Rights & Human Rights
+- Policy Interpretation
+- South Asia & India Expertise
 
 ---
 
@@ -88,7 +87,7 @@ Built a foundation in customer experience, escalation management, and operationa
 
 🛡️ **Genpact | Community Operations (Social Media)**
 
-Advanced into Trust & Safety, reviewing high-risk content, supporting platform integrity, and protecting users across South Asian markets.
+Advanced into Trust & Safety, reviewing high-risk content, supporting platform integrity, and protecting users across India & South Asian markets.
 
 ⬇️
 
@@ -109,8 +108,8 @@ Exploring Responsible AI, AI Governance, Digital Rights, Platform Governance, an
 
 - Responsible AI Frameworks & Governance
 - AI Risk Management & Safety
-- Platform Governance & Trust & Safety
-- AI-Assisted Analytics
+- Platform Governance & Regulatory Compliance(Privacy Laws, Digital Media Ethics)
+- AI-Assisted Analytics & Workflow Automation
 - Public Policy & Digital Rights
 - Technology, Society & Emerging Risks
 
@@ -158,7 +157,7 @@ Examining the legal, ethical, and governance challenges created by synthetic med
 
 - BigQuery
 - SQL
-- Looker Studio
+- Looker(Data) Studio
 - Google Sheets
 
 ### AI & Research
