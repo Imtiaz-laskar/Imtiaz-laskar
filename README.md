@@ -2,12 +2,12 @@
 
 Trust & Safety professional with experience across content moderation, ads policy enforcement, platform integrity, and multilingual risk operations within large-scale digital ecosystems.
 
-Currently exploring Responsible AI, AI Governance, Digital Rights, and Technology Policy through independent research, continuous learning, and data-driven projects.
+Currently exploring Responsible AI, Digital Rights, Platform Governance, and Technology Policy through independent research, data-driven projects, and lifelong learning.
 
-📍 Focused on South Asia & India
-📖 Interested in Research, Policy, and Emerging Technologies
-🤖 Exploring Responsible AI and Trustworthy AI
-🌐 Multilingual Communicator
+📍 Focused on South Asia & India, 
+📖 Interested in Research, Policy, and Emerging Technologies,
+🤖 Exploring Responsible AI and Trustworthy AI,
+🌐 Multilingual Communicator,
 📊 Strengthening my Data & AI fluency every second, minute, hour, day, month, and year.
 
 ---
