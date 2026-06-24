@@ -14,13 +14,12 @@ Currently exploring Responsible AI, Digital Rights, Platform Governance, and Tec
 
 ## 💡 About Me
 
-Trust & Safety and Risk professional with experience in policy enforcement, content moderation, platform integrity, abuse investigations, and risk operations across large-scale digital ecosystems.
+My professional journey spans Trust & Safety, ads and content policy enforcement, abuse investigations, risk operations, and customer experience across global digital platforms.
 
-My work focuses on improving user safety, strengthening policy compliance, conducting investigations, identifying emerging risks, and supporting operational excellence through data-informed decision-making.
+I enjoy working at the intersection of technology, policy, and user safety—analyzing emerging risks, strengthening platform integrity, and supporting evidence-based decision-making that fosters safer user experiences, builds brand trust, and helps organizations navigate evolving regulatory expectations.
 
-Passionate about Responsible AI, technology governance, digital rights, public policy, and online safety.
+My interests include Responsible AI, technology governance, digital rights, public policy, online safety, Branding & Storytelling
 
-Beyond operations, I enjoy researching emerging technology issues, publishing policy-focused articles, and exploring how governance frameworks can create safer and more trustworthy digital ecosystems.
 
 ## 🎒 Beyond Work
 
