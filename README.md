@@ -4,15 +4,11 @@ Trust & Safety professional with experience across content moderation, ads polic
 
 Currently exploring Responsible AI, AI Governance, Digital Rights, and Technology Policy through independent research, continuous learning, and data-driven projects.
 
-📍 South Asia & India Expertise
-
-📖 Research & Policy Enthusiast
-
-🤖 Responsible AI & Governance Enthusiast
-
+📍 Focused on South Asia & India
+📖 Interested in Research, Policy, and Emerging Technologies
+🤖 Exploring Responsible AI and Trustworthy AI
 🌐 Multilingual Communicator
-
-🛡️ Trust & Safety Professional
+📊 Strengthening my Data & AI fluency every second, minute, hour, day, month, and year.
 
 ---
 
@@ -22,9 +18,21 @@ Trust & Safety and Risk professional with experience in policy enforcement, cont
 
 My work focuses on improving user safety, strengthening policy compliance, conducting investigations, identifying emerging risks, and supporting operational excellence through data-informed decision-making.
 
-I am particularly interested in the intersection of Responsible AI, technology governance, digital rights, public policy, and online safety.
+Passionate about Responsible AI, technology governance, digital rights, public policy, and online safety.
 
 Beyond operations, I enjoy researching emerging technology issues, publishing policy-focused articles, and exploring how governance frameworks can create safer and more trustworthy digital ecosystems.
+
+## 🎒 Beyond Work
+
+✈️ Collecting experiences, one destination at a time
+🍽️ Exploring cultures through their food—from street stalls to hidden gems
+
+**Travel Bucket List**
+
+🇸🇬 Singapore
+🇮🇪 Dublin
+🇺🇸 San Francisco
+🛸 Mars (someday)
 
 ## 🎯 Areas of Expertise
 
