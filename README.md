@@ -136,7 +136,7 @@ Built a strong foundation in customer experience, escalation management, stakeho
 
 ---
 
-## 📖 Research & Publications
+## ✍️ Writing & Publications
 
 ### Reframing Digital Childhood: India's Emerging Framework for Child Safety and Online Rights
 
@@ -146,8 +146,7 @@ Exploring the evolving regulatory landscape, child protection measures, and digi
 
 Examining the legal, ethical, and governance challenges created by synthetic media, generative AI, and the protection of identity in the digital age.
 
-✍️ More articles and research notes available on Medium.
-
+✍️ More writing, articles, and notes available on Medium.
 
 ---
 
