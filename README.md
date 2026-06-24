@@ -87,28 +87,27 @@ Beyond operations, I enjoy researching emerging technology issues, publishing po
 
 ## 🛤️ Professional Journey
 
-🏦 **ICICI Bank | Customer Experience & Operations**
+🚀 **Independent Research & Professional Development *(Ongoing)***
 
-Built a foundation in customer experience, escalation management, and operational excellence.
+Exploring Responsible AI, Digital Rights, Platform Governance, and AI-assisted analytics through research, hands-on projects, and lifelong learning.
 
-⬇️
-
-🛡️ **Genpact | Community Operations (Social Media)**
-
-Advanced into Trust & Safety, reviewing high-risk content, supporting platform integrity, and protecting users across India & South Asian markets.
-
-⬇️
+⬆️
 
 🔎 **Accenture | Ads Policy & Security (Search Platform)**
 
-Specialized in ads policy enforcement, abuse investigations, advertiser compliance, OSINT-based reviews, and risk operations across EMEA & APAC.
+Specialized in ads policy enforcement, abuse investigations, advertiser compliance, OSINT-driven reviews, and risk operations across EMEA and APAC markets.
 
-⬇️
+⬆️
 
-🚀 **Independent Research & Professional Development**
+🛡️ **Genpact | Community Operations (Social Media)**
 
-Exploring Responsible AI, AI Governance, Digital Rights, Platform Governance, and AI-assisted analytics while building projects, publishing research, and contributing to open knowledge.
+Transitioned into Trust & Safety, reviewing high-risk content, supporting platform integrity, and helping protect users across India and South Asia.
 
+⬆️
+
+🏦 **ICICI Bank | Customer Experience & Operations**
+
+Built a strong foundation in customer experience, escalation management, stakeholder communication, and operational excellence.
 
 ---
 
