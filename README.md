@@ -18,7 +18,17 @@ My professional journey spans Trust & Safety, ads and content policy enforcement
 
 I enjoy working at the intersection of technology, policy, and user safety—analyzing emerging risks, strengthening platform integrity, and supporting evidence-based decision-making that fosters safer user experiences, builds brand trust, and helps organizations navigate evolving regulatory expectations.
 
-My interests include Responsible AI, technology governance, digital rights, public policy, online safety, Branding & Storytelling
+## 💭 Thinking Partners
+
+When exploring complex problems, I often use multiple AI tools to challenge assumptions, compare perspectives, and refine ideas:
+
+🟢 Gemini — Research, exploration & first-principles thinking
+
+🟣 Claude — Deep analysis & critical review
+
+🔵 ChatGPT — Synthesis, execution & communication
+
+AI assists the process; judgment, accountability, and decisions remain human.
 
 
 ## 🎒 Beyond Work
