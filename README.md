@@ -49,6 +49,7 @@ Built a strong foundation in customer experience, escalation management, stakeho
 * Responsible AI
 * AI Risk Management
 * AI-Assisted Analytics
+* To Stay Resilient
 
 ## Connect
 
