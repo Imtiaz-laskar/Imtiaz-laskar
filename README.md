@@ -126,7 +126,7 @@ A SQL-based workforce analytics case study exploring key drivers of **employee a
 
 I write about **AI, digital rights, online safety, platform governance, and emerging technology risks**.
 
-My writing explores questions around **technology, policy, risk, governance, and human impact**.
+My writing explores questions around **technology, policy, risk, governance, and social impact**.
 
 Some questions I keep exploring:
 
