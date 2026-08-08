@@ -1,60 +1,235 @@
 # Hola, I'm Imtiaz 👋
 
-Trust & Safety professional with experience in content moderation, ads policy enforcement, platform integrity, abuse investigations, and risk operations across global digital platforms.
+### Trust & Safety • Risk Intelligence • AI • Policy & Governance
 
-Currently exploring Responsible AI, platform governance, technology policy, and AI-assisted risk analytics through independent research and projects.
+I’m a Trust & Safety professional with 3+ years of experience across **content and ads policy enforcement, abuse investigations, platform integrity, risk operations, and customer experience** across social media and search platforms.
 
-## Areas of Focus
+My work and interests sit at the intersection of **technology, policy, risk, data, AI, and human experience**.
 
-* Trust & Safety Operations
-* Content & Ads Policy Enforcement
-* Platform Integrity & Online Safety
-* Risk Assessment & Investigations
-* Responsible AI & AI Governance
-* Technology Policy & Digital Rights
-* Data Analysis (GSheets, BigQuery, Looker Studio)
+I’m particularly interested in understanding emerging risks, translating evidence into better decisions, and exploring how responsible technology can help build **safer, more trusted digital platforms**.
 
-## Professional Journey
+---
 
-🚀 **Independent Research & Professional Development (Ongoing)**
+# 🧩 What I’m Bringing Together
 
-Exploring Responsible AI, Digital Rights, Platform Governance, and AI-assisted analytics through research, hands-on projects, and continuous learning.
+### 🚀 Where I’m Heading
+
+**Trust & Safety → Risk Intelligence → AI-enabled, safer digital systems**
+
+I’m bringing together my experience in **platform risk, investigation, data, AI, and policy** to better understand emerging risks, support better decisions, and contribute to safer, more trustworthy digital systems.
 
 ⬆️
 
-🔎 **Accenture | Ads Policy & Security (Search Platform)**
+### 🌐 Research, Open Source & Exploration
 
-Specialized in ads policy enforcement, abuse investigations, advertiser compliance, OSINT-driven reviews, and risk operations across EMEA and APAC markets.
+**Risk Intelligence • Technology • AI • Policy • Governance • Digital Rights • Online Safety**
 
-⬆️
-
-🛡️ **Genpact | Community Operations (Social Media)**
-
-Transitioned into Trust & Safety, reviewing high-risk content, supporting platform integrity, and helping protect users across India and South Asia.
+I turn questions I encounter into **research, writing, analytical projects, and open-source experiments** to explore how technology and policy can respond to emerging risks.
 
 ⬆️
 
-🏦 **ICICI Bank | Customer Experience & Operations**
+### 💻 Data, Technology & AI
 
-Built a strong foundation in customer experience, escalation management, stakeholder communication, and operational excellence.
+**SQL • BigQuery • Data Visualization • Automation • AI-Assisted Workflows • Responsible AI • AI Governance**
 
-## Featured Projects
+I’m learning to use **data, technology, and AI as leverage**—to explore problems faster, identify patterns, test ideas, and turn complex information into clearer insights.
 
-* AI-Assisted Risk Analytics Dashboard
-* Deepfake & Misinformation Analysis
-* Child Safety & Platform Governance Research
+⬆️
 
-## Currently Learning
+### 🔎 Investigative & Analytical Thinking
 
-* Responsible AI
-* AI Risk Management
-* AI-Assisted Analytics
-* To Stay Resilient
+**OSINT • Risk Assessment • Policy Analysis • Root Cause Analysis • Trend Analysis • Research • Stakeholder Communication**
 
-## Connect
+My Trust & Safety experience developed an instinct to look beyond individual cases—to understand **patterns, causes, context, and emerging risks**.
 
-🌐 Portfolio: imtiaz-laskar.github.io
+⬆️
 
-💼 LinkedIn: linkedin.com/in/imtiazhlaskar
+### 💼 Professional Experience
 
-✍️ Medium: medium.com/@imtiaz.laskar96
+**Customer Experience • Trust & Safety • Content & Ads Policy • Abuse Investigations • Platform Integrity • Risk Operations**
+
+Working across **customer operations, social media, and search platforms** gave me practical experience with how policies, risks, and user-impacting decisions work in real-world environments.
+
+⬆️
+
+### 🎓 Academic Foundation
+
+**Political Science • Geography • Rural Development • Human Rights • Digital Rights • Public Policy**
+
+My academic background shaped how I think about **people, communities, systems, development, rights, governance, and the wider social impact of technology**.
+
+---
+
+# 🔎 Areas of Focus
+
+### 🛡️ Trust & Safety
+
+Content & Ads Integrity • Abuse Investigations • Platform Integrity • Online Safety • Escalations
+
+### 🔍 Risk & Intelligence
+
+Risk Assessment • OSINT • Investigative Research • Root Cause Analysis • Trend Analysis • Emerging Risks
+
+### 🤖 AI & Data
+
+AI-Assisted Analysis • Responsible AI • AI Governance • SQL • BigQuery • Data Visualization • Automation
+
+### ⚖️ Policy & Governance
+
+Policy Analysis • Digital Rights • Technology Policy • Platform Governance • Public Policy
+
+### 🧠 User Experience → Human Experience
+
+**User Experience (UX) • Human Experience (HX) • User Safety • Human-Centered Technology • Rights & Responsibility**
+
+Interested in how digital products **work for users, affect people, and shape human experiences**—connecting usability and user needs with **safety, trust, dignity, rights, and responsible technology**.
+
+---
+
+# 🧪 Recent Work
+
+### 🌐 Global Risk & Intelligence Engine
+
+**[Public Case Study](https://github.com/Imtiaz-laskar/global-risk-intelligence-engine-showcase)**
+
+A full-stack OSINT risk monitoring platform exploring how **emerging signals can be collected, analyzed, classified, and translated into actionable risk intelligence**.
+
+**Focus:** OSINT • Risk Intelligence • AI • Risk Analytics • Platform Risk
+
+### 🧠 Deepfake & Misinformation Analysis
+
+**[GitHub Repository](https://github.com/Imtiaz-laskar/deepfake-misinformation-analysis)**
+
+An end-to-end analysis of **synthetic-media misinformation** using BigQuery SQL, AI-assisted context and prompt engineering, and Looker Studio visualization.
+
+**Focus:** Misinformation • AI-Assisted Analysis • SQL • BigQuery • Data Visualization
+
+### 🧩 Cyberbullying Analysis
+
+**[GitHub Repository](https://github.com/Imtiaz-laskar/cyberbullying-sql-bigquery-analysis)**
+
+Exploring cyberbullying patterns in social-media data using **BigQuery and AI-assisted SQL workflows**.
+
+**Focus:** Online Safety • Risk Analysis • SQL • BigQuery • AI-Assisted Analytics
+
+### 📊 Employee Attrition Risk Analysis
+
+**[GitHub Repository](https://github.com/Imtiaz-laskar/employee-attrition-risk-analysis)**
+
+A SQL-based workforce analytics case study exploring key drivers of **employee attrition risk** using BigQuery.
+
+**Focus:** Risk Analysis • SQL • BigQuery • Data Analytics
+
+---
+
+# ✍️ Research & Writing
+
+I write about **AI, digital rights, online safety, platform governance, and emerging technology risks**.
+
+My writing explores questions around **technology, policy, risk, governance, and human impact**.
+
+Some questions I keep exploring:
+
+> **How should technology respond to emerging risks?**
+
+> **How can AI improve decision-making without replacing human judgment?**
+
+> **How do we balance safety, rights, privacy, and innovation?**
+
+> **How do we build digital products that are not only useful, but safe, trustworthy, and human-centered?**
+
+---
+
+# 💼 Professional Journey
+
+### 🚀 Independent Research & Professional Development
+
+**Ongoing | Current**
+
+Continuing to develop at the intersection of **Trust & Safety, Risk Intelligence, AI, Policy, Data, and Responsible Technology** through independent research, writing, open-source projects, and continuous learning.
+
+⬆️
+
+### 🔎 Accenture — Ads Policy & Security
+
+**Search Platform | 2024–2025**
+
+Worked across EMEA and APAC on **ads policy enforcement, abuse investigations, advertiser compliance, OSINT-driven reviews, and risk operations**.
+
+⬆️
+
+### 🛡️ Genpact — Community Operations
+
+**Social Media | 2023–2024**
+
+Worked in Trust & Safety across India and South Asia, reviewing **high-risk content, investigating abuse, identifying emerging risk patterns, and supporting platform integrity**.
+
+⬆️
+
+### 🏦 ICICI Bank — Customer Experience & Operations
+
+**2022**
+
+Built an early foundation in **customer experience, escalation management, stakeholder communication, and operational problem-solving**.
+
+---
+
+# 🧠 How I Approach Problems
+
+**Observe → Investigate → Analyze → Interpret → Communicate → Improve**
+
+I’m particularly interested in problems where the answer isn't simply:
+
+> *“What does the policy say?”*
+
+but also:
+
+> **What is happening?**
+> **Why is it happening?**
+> **What does the evidence show?**
+> **What risks are emerging?**
+> **What should change?**
+> **How can technology help?**
+
+---
+
+# 🤖 How I Use AI
+
+AI is increasingly part of how I **learn, explore, analyze, prototype, and iterate**.
+
+I use AI-assisted workflows as a **thinking and productivity layer**, while applying domain knowledge, critical thinking, validation, and human judgment to the work.
+
+My interest is not simply in using AI faster.
+
+It is in understanding **where AI can improve decision-making—and where human judgment, accountability, and oversight remain essential.**
+
+---
+
+# 📚 Currently Learning
+
+### Responsible Technology
+
+Responsible AI • AI Governance • AI Risk & Safety
+
+### Risk & Intelligence
+
+Risk Intelligence • OSINT • Emerging-Risk Analysis • Investigative Research
+
+### Data & Technology
+
+SQL • BigQuery • Data Visualization • Automation • AI-Assisted Analytics
+
+### Policy & Governance
+
+Platform Governance • Technology Policy • Digital Rights • Online Safety
+
+**Learning philosophy:**
+**Stay curious → Build → Test → Reflect → Improve**
+
+---
+
+# 🔗 Connect
+
+🌐 **Portfolio:** imtiaz-laskar.github.io
+💼 **LinkedIn:** linkedin.com/in/imtiazhlaskar
+✍️ **Medium:** medium.com/@imtiaz.laskar96
