@@ -98,14 +98,6 @@ A full-stack OSINT risk monitoring platform exploring how **emerging signals can
 
 **Focus:** OSINT • Risk Intelligence • AI • Risk Analytics • Platform Risk
 
-### 🧠 Deepfake & Misinformation Analysis
-
-**[GitHub Repository](https://github.com/Imtiaz-laskar/deepfake-misinformation-analysis)**
-
-An end-to-end analysis of **synthetic-media misinformation** using BigQuery SQL, AI-assisted context and prompt engineering, and Looker Studio visualization.
-
-**Focus:** Misinformation • AI-Assisted Analysis • SQL • BigQuery • Data Visualization
-
 ### 🧩 Cyberbullying Analysis
 
 **[GitHub Repository](https://github.com/Imtiaz-laskar/cyberbullying-sql-bigquery-analysis)**
