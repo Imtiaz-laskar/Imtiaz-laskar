@@ -1,12 +1,14 @@
 # Hola, I'm Imtiaz 👋
 
-### Trust & Safety • Risk Intelligence • AI • Policy & Governance
+### Trust & Safety • Risk Intelligence • AI • Policy • Human Experience
 
-I’m a Trust & Safety professional with 3+ years of experience across **content and ads policy enforcement, abuse investigations, platform integrity, risk operations, and customer experience** across social media and search platforms.
+**Curious about risks. Interested in systems. Focused on people.**
 
-My work and interests sit at the intersection of **technology, policy, risk, data, AI, and human experience**.
+I work at the intersection of **technology, risk, policy, data, AI, and human/User experience**.
 
-I’m particularly interested in understanding emerging risks, translating evidence into better decisions, and exploring how responsible technology can help build **safer, more trusted digital platforms**.
+With 3+ years across **Trust & Safety, content and ads policy, abuse investigations, platform integrity, risk operations, and customer experience**, I explore how emerging technologies create new risks — and how better systems, policies, and responsible AI can help build **safer, more trusted digital platforms**.
+
+My interests span **Responsible AI, AI Governance, Digital Rights, Online Safety, Risk Intelligence, Policy Research, and Human-Centered Technology**.
 
 ---
 
