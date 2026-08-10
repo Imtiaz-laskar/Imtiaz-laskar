@@ -16,7 +16,7 @@ My interests span **Responsible AI, AI Governance, Digital Rights, Online Safety
 
 ### 🚀 Where I’m Heading
 
-**Trust & Safety → Risk Intelligence → AI-enabled, safer digital systems**
+**Trust & Safety → Risk Intelligence & Policy → AI-enabled, safer digital systems**
 
 I’m bringing together my experience in **platform risk, investigation, data, AI, and policy** to better understand emerging risks, support better decisions, and contribute to safer, more trustworthy digital systems.
 
