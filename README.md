@@ -2,9 +2,9 @@
 
 <br/>
 
-<h1>Imtiaz Hussain Laskar</h1>
+<h1>Imtiaz Laskar</h1>
 
-<p>Trust & Safety | Risk Intelligence | AI | Policy.</p>
+<p>Trust & Safety &nbsp;·&nbsp; Risk Intelligence &nbsp;·&nbsp; AI &nbsp;·&nbsp; Policy</p>
 
 <br/>
 
