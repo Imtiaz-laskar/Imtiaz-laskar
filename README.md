@@ -18,8 +18,7 @@
 <br/>
 
 ```
-[ ACTIVE ] — Building at the edge of technology & human risk
-```
+[ ACTIVE ] — Following the signal, not the noise```
 
 </div>
 
