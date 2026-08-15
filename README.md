@@ -1,23 +1,19 @@
 <div align="center">
 
 ```
-▄█  █▄▄▄▄ ▄▄▄▄▄  ▄███▄      ▄     ██   ▄▄▄▄▄ 
-██  █  ▄▀ █     ▀ █▀   ▀      █    █ █  █     ▀▄
-██▄▄█▀▀▀  ▄  ▄▄▀▀ ██▄▄    ██   █   █▄▄█ ▄  ▄▄▀▀
-█  █    ▀ █▀   ▄  █▄   ▄▀ █ █  █   █  █ █▀   ▄ 
-   █   ████ ▀▀▀   ▀███▀   █  █ █      █  ▀▀▀   
-  █                        █   ██    █          
- ▀                                  ▀           
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║              I M T I A Z   H U S S A I N   L A S K A R              ║
+║                                                                      ║
+║       Trust & Safety  ·  Risk Intelligence  ·  AI  ·  Policy        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  OPERATOR  :  Imtiaz Hussain Laskar                                  ║
-║  DOMAIN    :  Trust & Safety · Risk Intelligence · AI · Policy       ║
-║  STATUS    :  [ ACTIVE ]  Building at the edge of tech & human risk  ║
-╚══════════════════════════════════════════════════════════════════════╝
+  STATUS  :  [ ACTIVE ]  Building at the edge of technology & human risk
 ```
 
 <br/>
