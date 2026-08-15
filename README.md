@@ -81,9 +81,9 @@ drwxr-xr-x   ICICI Bank — Customer Experience         [ 2022 ]
 │      Policy Analysis · Digital Rights · Technology Policy          │
 │      Platform Governance · Public Policy                            │
 │                                                                     │
-│  🧠  HUMAN EXPERIENCE                                              │
-│      User Safety · Human-Centered Technology                       │
-│      Rights & Responsibility · Trust by Design                     │
+│   🧠 HUMAN EXPERIENCE
+       Human-Centered Technology · Digital Rights
+       Safety by Design · Privacy by Design · Responsible AI          │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
