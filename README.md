@@ -4,9 +4,7 @@
 
 <h1>Imtiaz Hussain Laskar</h1>
 
-<p><strong>Trust & Safety &nbsp;·&nbsp; Risk Intelligence &nbsp;·&nbsp; AI &nbsp;·&nbsp; Policy</strong></p>
-
-<p><em>Curious about risks. Interested in systems. Focused on people.</em></p>
+<p>Trust & Safety | Risk Intelligence | AI | Policy.</p>
 
 <br/>
 
@@ -18,7 +16,8 @@
 <br/>
 
 ```
-[ ACTIVE ] — Following the signal, not the noise```
+[ ACTIVE ] — Following the signal, not the noise
+```
 
 </div>
 
@@ -104,7 +103,7 @@ SQL workforce analytics. Overtime showed 3× attrition risk. Sales Representativ
 ```
 Accenture          Ads Policy & Security      EMEA & APAC     2024 – 2025
 Genpact            Community Operations       India & SA      2023 – 2024
-ICICI Bank         Customer Experience          India            2022
+ICICI Bank         Customer Experience           India           2022
 ```
 
 <br/>
@@ -118,10 +117,9 @@ Trust & Safety       Content & Ads Policy · Abuse Investigations
                      Platform Integrity · Online Safety · Escalation & Response
 
 Risk & Intelligence  Risk Assessment · OSINT · Investigative Research
-                     Trend Analysis · Emerging Risks
+                     Root Cause Analysis · Trend Analysis · Emerging Risks
 
-AI & Data            SQL · AI-Assisted Analysis
-                     Scripting · Data Visualization
+AI & Data            SQL · AI-Assisted Analysis · Data Visualization
 
 Policy & Governance  Policy Analysis · Digital Rights · Technology Policy
                      Public Policy
@@ -161,13 +159,15 @@ I use it as a **thinking and productivity layer** — not a replacement for doma
 
 ---
 
-## Currently exploring
+## Currently learning
 
 ```
-Responsible AI  · AI Risk & Safety · Digital Rights
+Responsible AI  ·  AI Governance  ·  AI Risk & Safety
 Risk Intelligence  ·  OSINT  ·  Emerging-Risk Analysis
-Analytics  ·  Automation ·  Technology Policy  
+SQL  ·  BigQuery  ·  Data Visualization  ·  Automation
+Platform Governance  ·  Technology Policy  ·  Digital Rights
 ```
+
 *Stay curious → Build → Test → Reflect → Improve*
 
 <br/>
