@@ -191,6 +191,18 @@ Platform Governance  ·  Technology Policy  ·  Digital Rights
 
 ---
 
+## Education
+
+```
+M.A. Human Rights                        Jamia Hamdard, New Delhi   2020
+P.G. Diploma in Rural Development        IGNOU                      2021
+B.A. Political Science & Geography       Delhi University           2018
+```
+
+<br/>
+
+---
+
 ## Writing
 
 I write about AI, digital rights, online safety, platform governance, and emerging technology risks — exploring how technology, policy, and human systems interact.
