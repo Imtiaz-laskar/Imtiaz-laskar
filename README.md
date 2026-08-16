@@ -120,10 +120,10 @@ Risk & Intelligence  Risk Assessment · OSINT · Investigative Research
                      Root Cause Analysis · Trend Analysis · Emerging Risks
 
 AI & Data            SQL · AI-Assisted Analysis · Data Visualization
-                     Scripting · Automation · Regulatory Affairs
+                     Scripting · Automation
 
 Policy & Governance  Policy Analysis · Digital Rights · Technology Policy
-                     Public Policy
+                     Public Policy · Regulatory Affairs
 
 Human Experience     Human-Centered Technology · Safety by Design
                      Privacy by Design · Digital Rights
