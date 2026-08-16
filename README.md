@@ -120,12 +120,29 @@ Risk & Intelligence  Risk Assessment · OSINT · Investigative Research
                      Root Cause Analysis · Trend Analysis · Emerging Risks
 
 AI & Data            SQL · AI-Assisted Analysis · Data Visualization
+                     Scripting · Automation · Regulatory Affairs
 
 Policy & Governance  Policy Analysis · Digital Rights · Technology Policy
                      Public Policy
 
 Human Experience     Human-Centered Technology · Safety by Design
                      Privacy by Design · Digital Rights
+```
+
+<br/>
+
+---
+
+## Languages
+
+```
+Assamese   ████████████████████   Native
+Bengali    ████████████████████   Native
+Sylheti    ████████████████████   Native
+English    ████████████████░░░░   Full Professional
+Hindi      ████████████░░░░░░░░   Professional Working
+Nagamese   ████████░░░░░░░░░░░░   Limited Working
+Urdu       ████░░░░░░░░░░░░░░░░   Elementary
 ```
 
 <br/>
