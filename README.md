@@ -71,18 +71,18 @@ Compliance-as-Code governance OS for EdTech AI. DPDP Act 2023 §9 ruling engine,
 <tr>
 <td width="50%" valign="top">
 
-**🧩 Cyberbullying Pattern Analysis**
+**📊 GigPulse India — Workforce BI Dashboard**
 
-~47K labeled tweets. Key finding: tweet length — not engagement — was the real signal. Hypothesis rejected cleanly.
+Live BI web app — 50,000 Indian gig economy workers, interactive filters, Gemini AI insights, zero server costs. Built entirely on Google Workspace.
 
-`Online Safety` `SQL` `BigQuery` `AI-Assisted`
+`Google Apps Script` `Gemini AI` `Business Intelligence` `Gig Economy`
 
-[→ View repository](https://github.com/Imtiaz-laskar/cyberbullying-sql-bigquery-analysis)
+[→ View live dashboard](https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec) &nbsp;·&nbsp; [→ View repository](https://github.com/Imtiaz-laskar/gigpulse-india-bi-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Employee Attrition Risk Analysis**
+**📈 Employee Attrition Risk Analysis**
 
 SQL workforce analytics. Overtime showed 3× attrition risk. Sales Representatives hit 66.67% turnover when combined with OT.
 
@@ -110,7 +110,7 @@ ICICI Bank         Customer Experience           India           2022
 
 ---
 
-## Skills & Focus Area
+## Skills & Focus Areas
 
 ```
 Trust & Safety       Content & Ads Policy · Abuse Investigations
