@@ -116,62 +116,62 @@ ICICI Bank         Customer Experience           India           2022
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                        LOOKING FORWARD                                      ║
 ║                                                                              ║
-║        Where risk, policy, and AI accountability converge                   ║
+║         Where risk, policy, and AI accountability converge                  ║
 ║                                                                              ║
-║   Platform · AI Company · Regulatory Environment · Policy /Think Tank         ║
+║    Platform · AI Company · Regulatory Environment · Policy / Think Tank     ║
+║                                                                              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                    NOW — BUILDING & RESEARCHING                             ║
+║                     NOW — BUILDING & RESEARCHING                            ║
 ║                                                                              ║
-║   Risk · AI Safety, Security & Policy · Data Analytics                       ║
-║   Policy Research · Open-Source Intelligence                                 ║
-║   AI-Powered Workflows · Human Rights & Technology · Online Safety           ║
+║    Risk Intelligence · AI Safety, Security & Policy · Data Analytics        ║
+║    Policy Research · Open-Source Intelligence · AI-Powered Workflows        ║
+║    Online Safety · Human Rights & Technology                                ║
 ║                                                                              ║
-║                                                                              ║
-║ — turning domain knowledge into open systems, tools, and research           ║
+║    — turning domain knowledge into open systems, tools, and research        ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        ADS POLICY · RISK OPERATIONS                         ║
+║                     ADS POLICY · RISK OPERATIONS                            ║
 ║                                                                              ║
-║   Ads Policy Enforcement · OSINT Investigations · Abuse Pattern Analysis    ║
-║   Regulatory Reviews · Business Due Diligence · EMEA & APAC                ║
-║   AI-Assisted Workflows · Collaboration
-                             
-║   — connecting enforcement signals to systemic risk and product decisions   ║
+║    Ads Policy Enforcement · OSINT Investigations · Abuse Pattern Analysis   ║
+║    Regulatory Reviews · Business Due Diligence · EMEA & APAC               ║
+║    AI-Assisted Workflows · Cross-Functional Stakeholder Collaboration       ║
+║                                                                              ║
+║    — connecting enforcement signals to systemic risk and product decisions  ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║              TRUST & SAFETY · PLATFORM OPERATIONS                           ║
+║                TRUST & SAFETY · PLATFORM OPERATIONS                         ║
 ║                                                                              ║
-║   Content Policy · High-Risk Content Review · Investigations                ║
-║   Identity & Account Cases · Emerging Risk & Response · Platform Integrity   ║
-║   Multilingual Operations — Assamese · Bengali · Hindi
-                                                                               ║
-║   — learned how harm works at scale, inside real platforms                  ║
+║    Content Policy · High-Risk Content Review · Abuse Investigations         ║
+║    Identity & Account Cases · Emerging Risk Patterns · Platform Integrity   ║
+║    Multilingual Operations — Assamese · Bengali · Hindi                     ║
+║                                                                              ║
+║    — learned how harm works at scale, inside real platforms                 ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                        FIRST STEPS IN THE FIELD                             ║
 ║                                                                              ║
-║   Customer Experience · Escalation Management · Operational Problem-Solving
-║
-║   — Explored how decisions affect people                                    ║
+║    Customer Experience · Escalation Management · Operational Problem-Solving║
+║                                                                              ║
+║    — explored how decisions affect people                                   ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        WHERE IT STARTED                                     ║
+║                           WHERE IT STARTED                                  ║
 ║                                                                              ║
-║   Political Science · Human Rights · Geography · Rural Development
-║
-║   — how communities, systems, rights, and governance interact               ║
+║    Political Science · Human Rights · Geography · Rural Development         ║
+║                                                                              ║
+║    — how communities, systems, rights, and governance interact              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
