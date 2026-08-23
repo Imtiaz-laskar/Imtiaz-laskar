@@ -110,23 +110,67 @@ ICICI Bank         Customer Experience           India           2022
 
 ---
 
-## Skills & Focus Areas
+## Career Trajectory
 
 ```
-Trust & Safety       Content & Ads Policy · Abuse Investigations
-                     Platform Integrity · Online Safety · Escalation & Response
-
-Risk & Intelligence  Risk Assessment · OSINT · Investigative Research
-                     Root Cause Analysis · Trend Analysis · Emerging Risks
-
-AI & Data            SQL · AI-Assisted Analysis · Data Visualization
-                     Scripting · Automation
-
-Policy & Governance  Policy Analysis · Digital Rights · Technology Policy
-                     Public Policy · Regulatory Affairs
-
-Human Experience     Human-Centered Technology · Safety by Design
-                     Privacy by Design · Digital Rights
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        LOOKING FORWARD                                      ║
+║                                                                              ║
+║        Where risk, policy, and AI accountability converge                   ║
+║                                                                              ║
+║   Platform · AI Company · Regulatory Environment · Policy /Think Tank         ║
+║                                                                              ║
+╚══════════════════════════════════════════╤═══════════════════════════════════╝
+                                           │
+                                           ▲
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    NOW — BUILDING & RESEARCHING                             ║
+║                                                                              ║
+║   Risk · AI Safety, Security & Policy · Data Analytics                       ║
+║   Policy Research · Open-Source Intelligence                                 ║
+║   AI-Powered Workflows · Human Rights & Technology · Online Safety           ║
+║                                                                              ║
+║                                                                              ║
+║   — turning domain knowledge into open systems, tools, and research         ║
+╚══════════════════════════════════════════╤═══════════════════════════════════╝
+                                           │
+                                           ▲
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        ADS POLICY · RISK OPERATIONS                         ║
+║                                                                              ║
+║   Ads Policy Enforcement · OSINT Investigations · Abuse Pattern Analysis    ║
+║   Regulatory Reviews · Business Due Diligence · EMEA & APAC                ║
+║   AI-Assisted Workflows · Collaboration
+                             ║
+║   — connecting enforcement signals to systemic risk and product decisions   ║
+╚══════════════════════════════════════════╤═══════════════════════════════════╝
+                                           │
+                                           ▲
+╔══════════════════════════════════════════════════════════════════════════════╗
+║              TRUST & SAFETY · PLATFORM OPERATIONS                           ║
+║                                                                              ║
+║   Content Policy · High-Risk Content Review · Investigations                ║
+║   Identity & Account Cases · Emerging Risk & Response · Platform Integrity   ║
+║   Multilingual Operations — Assamese · Bengali · Hindi
+                                                                               ║
+║   — learned how harm works at scale, inside real platforms                  ║
+╚══════════════════════════════════════════╤═══════════════════════════════════╝
+                                           │
+                                           ▲
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        FIRST STEPS IN THE FIELD                             ║
+║                                                                              ║
+║   Customer Experience · Escalation Management · Operational Problem-Solving ║
+║   — Explored how decisions affect people                                    ║
+╚══════════════════════════════════════════╤═══════════════════════════════════╝
+                                           │
+                                           ▲
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        WHERE IT STARTED                                     ║
+║                                                                              ║
+║   Political Science · Human Rights · Geography · Rural Development          ║
+║   — how communities, systems, rights, and governance interact               ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -170,21 +214,6 @@ I'm drawn to problems where the answer isn't simply *"what does the policy say?"
 AI is part of how I learn, explore, analyze, prototype, and iterate.
 
 I use it as a **thinking and productivity layer** — not a replacement for domain knowledge, critical judgment, or human accountability. My interest isn't in using AI faster. It's in understanding where AI can improve decisions, and where human oversight remains non-negotiable.
-
-<br/>
-
----
-
-## Currently learning
-
-```
-Responsible AI  ·  AI Governance  ·  AI Risk & Safety
-Risk Intelligence  ·  OSINT  ·  Emerging-Risk Analysis
-SQL  ·  BigQuery  ·  Data Visualization  ·  Automation
-Platform Governance  ·  Technology Policy  ·  Digital Rights
-```
-
-*Stay curious → Build → Test → Reflect → Improve*
 
 <br/>
 
