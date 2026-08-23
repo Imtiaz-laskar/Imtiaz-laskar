@@ -131,7 +131,7 @@ ICICI Bank         Customer Experience           India           2022
 ║   AI-Powered Workflows · Human Rights & Technology · Online Safety           ║
 ║                                                                              ║
 ║                                                                              ║
-║   — turning domain knowledge into open systems, tools, and research         ║
+║ — turning domain knowledge into open systems, tools, and research           ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
@@ -141,7 +141,7 @@ ICICI Bank         Customer Experience           India           2022
 ║   Ads Policy Enforcement · OSINT Investigations · Abuse Pattern Analysis    ║
 ║   Regulatory Reviews · Business Due Diligence · EMEA & APAC                ║
 ║   AI-Assisted Workflows · Collaboration
-                             ║
+                             
 ║   — connecting enforcement signals to systemic risk and product decisions   ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
@@ -160,7 +160,8 @@ ICICI Bank         Customer Experience           India           2022
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                        FIRST STEPS IN THE FIELD                             ║
 ║                                                                              ║
-║   Customer Experience · Escalation Management · Operational Problem-Solving ║
+║   Customer Experience · Escalation Management · Operational Problem-Solving
+║
 ║   — Explored how decisions affect people                                    ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
@@ -168,7 +169,8 @@ ICICI Bank         Customer Experience           India           2022
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                        WHERE IT STARTED                                     ║
 ║                                                                              ║
-║   Political Science · Human Rights · Geography · Rural Development          ║
+║   Political Science · Human Rights · Geography · Rural Development
+║
 ║   — how communities, systems, rights, and governance interact               ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
