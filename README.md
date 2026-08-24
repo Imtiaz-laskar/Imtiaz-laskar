@@ -25,15 +25,16 @@
 
 <br/>
 
-I work at the intersection of technology, policy, and safety.
-
+I work where technology, policy, and safety meet.
+ 
 3+ years across social media, search, and customer operations — investigating abuse, enforcing policy, and understanding how harm behaves at scale.
-
+ 
 I use data, OSINT, and AI-assisted workflows to investigate faster and surface patterns that matter. But I believe accountability still needs an accountable human.
-
+ 
 I also write about AI, digital rights, and anything that makes me think harder about how the world works.
-
+ 
 <br/>
+
 
 ---
 
