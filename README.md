@@ -25,16 +25,13 @@
 
 <br/>
 
-I work at the intersection of **technology, risk, policy, data, AI, and human experience**.
+I work at the intersection of technology, policy, and safety.
 
-3+ years across Trust & Safety, content & ads policy, abuse investigations, platform integrity, and risk operations — watching how emerging technologies create new kinds of harm, and thinking hard about how better systems, policies, and responsible AI can respond.
+3+ years across social media, search, and customer operations — investigating abuse, enforcing policy, and understanding how harm behaves at scale.
 
-<br/>
+I use data, OSINT, and AI-assisted workflows to investigate faster and surface patterns that matter. But I believe accountability still needs an accountable human.
 
-> *How should technology respond to emerging risks?*
-> *How can AI improve decisions without replacing human judgment?*
-> *How do we balance safety, rights, privacy, and innovation?*
-> *How do we build products that are useful — and safe — and trustworthy?*
+I also write about AI, digital rights, and anything that makes me think harder about how the world works.
 
 <br/>
 
@@ -120,7 +117,7 @@ ICICI Bank         Customer Experience           India           2022
 ║                                                                              ║
 ║    Platform · AI Company · Regulatory Environment · Policy / Think Tank     ║
 ║                                                                              ║
-║                                                                              ║
+║    — still learning, still building                                         ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
@@ -235,7 +232,7 @@ B.A. Political Science & Geography       Delhi University           2018
 
 ## Writing
 
-I write about AI, digital rights, online safety, platform governance, and emerging technology risks — exploring how technology, policy, and human systems interact.
+I write about AI, digital rights, and anything that makes me think harder about how the world works.
 
 [Read on Medium →](https://medium.com/@imtiaz.laskar96)
 
