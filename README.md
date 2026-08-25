@@ -118,7 +118,7 @@ ICICI Bank         Customer Experience           India           2022
 ║                                                                              ║
 ║    Platform · AI Company · Regulatory Environment · Policy / Think Tank     ║
 ║                                                                              ║
-║    — still learning, still building                                         ║
+║                                                                              ║
 ╚══════════════════════════════════════════╤═══════════════════════════════════╝
                                            │
                                            ▲
