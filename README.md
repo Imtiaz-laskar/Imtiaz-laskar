@@ -15,7 +15,7 @@
 <br/>
 
 ```
-[ ACTIVE ] — Following the signal, not the noise
+ - [ ACTIVE ] —
 ```
 
 </div>
