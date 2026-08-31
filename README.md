@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-imtiaz--laskar.github.io-0057B8?style=flat-square&logo=safari&logoColor=white)](https://imtiaz-laskar.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imtiazhlaskar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imtiazhlaskar)
 [![Medium](https://img.shields.io/badge/Medium-@imtiaz.laskar96-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@imtiaz.laskar96)
 [![Email](https://img.shields.io/badge/Email-imtiazh526@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imtiazh526@gmail.com)
