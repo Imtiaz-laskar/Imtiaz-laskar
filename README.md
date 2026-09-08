@@ -15,7 +15,7 @@
 <br/>
 
 ```
- - [ ACTIVE ] —
+   [ ACTIVE ]
 ```
 
 </div>
@@ -25,15 +25,14 @@
 <br/>
 
 I work where technology, policy, and safety meet.
- 
-3+ years across social media, search, and customer operations — investigating abuse, enforcing policy, and understanding how harm behaves at scale.
- 
-I use data, OSINT, and AI-assisted workflows to investigate faster and surface patterns that matter. But I believe accountability still needs an accountable human.
- 
-I also write about AI, digital rights, and anything that makes me think harder about how the world works.
- 
-<br/>
 
+3+ years across social media, search, and customer operations — investigating abuse, enforcing policy, and understanding how harm behaves at scale.
+
+I use data, OSINT, and AI-assisted workflows to investigate faster and surface patterns that matter. But I believe accountability still needs an accountable human.
+
+I also write about AI, digital rights, and anything that makes me think harder about how the world works.
+
+<br/>
 
 ---
 
@@ -68,13 +67,13 @@ Compliance-as-Code governance OS for EdTech AI. DPDP Act 2023 §9 ruling engine,
 <tr>
 <td width="50%" valign="top">
 
-**📊 GigPulse India — Workforce BI Dashboard**
+**🔍 GEOINT & Network Analysis — Transnational Cyber-Trafficking**
 
-Live BI web app — 50,000 Indian gig economy workers, interactive filters, Gemini AI insights, zero server costs. Built entirely on Google Workspace.
+Structured intelligence assessment mapping how deceptive recruitment, cross-border movement, forced online fraud, scam compounds, and criminal financial flows connect across India and Southeast Asia.
 
-`Google Apps Script` `Gemini AI` `Business Intelligence` `Gig Economy`
+`GEOINT` `Network Analysis` `OSINT` `Threat Intelligence`
 
-[→ View live dashboard](https://script.google.com/macros/s/AKfycbx8kE4xGE5e4aQ5hQHYjPbmOppAizPdLJ3lPpwkcuE7boa_-S4EdPXMKTZ7zWsDB94u/exec) &nbsp;·&nbsp; [→ View repository](https://github.com/Imtiaz-laskar/gigpulse-india-bi-dashboard)
+[→ View repository](https://github.com/Imtiaz-laskar/geoint-analysis-transnational-cyber-slavery-human-trafficking)
 
 </td>
 <td width="50%" valign="top">
@@ -242,10 +241,5 @@ I write about AI, digital rights, and anything that makes me think harder about 
 
 <div align="center">
 
-<br/>
-
-*Building at the intersection of technology, risk, and human experience.*
-
-<br/>
 
 </div>
