@@ -12,15 +12,6 @@
 [![Medium](https://img.shields.io/badge/Medium-@imtiaz.laskar96-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@imtiaz.laskar96)
 [![Email](https://img.shields.io/badge/Email-imtiazh526@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imtiazh526@gmail.com)
 
-<br/>
-
-```
-   [ ACTIVE ]
-```
-
-</div>
-
-
 ## Work
 
 <table>
